@@ -4,8 +4,8 @@
 
 ### Personal Information
 - **Education:** SSC from Textile Institute, Natore
-- **Location:** Your Location
-- **Email:** your.email@example.com
+- **Location:** Lakshmipur Kholabaria
+- **Email:** nazmulkahn23@gmail.com
 - **Phone:** (123) 456-7890
 
 ### Summary
